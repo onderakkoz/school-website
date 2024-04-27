@@ -7,8 +7,8 @@ Udemig Kolejleri ile ilgili tanıtım websitesi geliştirildi.
 
 # Video
 
-![](images/udemigvideo.webm)
+![](images/udemigvideo.mp4)
 
 # GIF
 
-![](İimages/udemiggif.gif)
+![](images/udemiggif.gif)
